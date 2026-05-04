@@ -1,2 +1,38 @@
 .*
 !.gitignore
+DeepLearning/Seminars/01. Image Convolution/mnist/*
+DeepLearning/Seminars/02.Cnn/cifar/*
+DeepLearning/Seminars/02.Cnn/__pycache__/*
+DeepLearning/Seminars/02.Cnn/02_Image_Classification_solved.ipynb
+DeepLearning/Seminars/03. Image Segm/data/*
+DeepLearning/Seminars/03. Image Segm/voc/*
+
+DeepLearning/Seminars/04. Word2vec/seminar-04-w2v.ipynb
+DeepLearning/Seminars/04. Word2vec/lec4-word2vec.ipynb
+DeepLearning/Seminars/03. Image Segm/seminar-03-cv_full copy.ipynb
+DeepLearning/Seminars/04. Word2vec/plot.html
+DeepLearning/Seminars/05. RNN/lightning_logs/*
+DeepLearning/Homework/cs231n/*
+DeepLearning/Homework/datasets/cifar-10-batches-py/*
+DeepLearning/Homework/utils/__pycache__/*
+DeepLearning/Homework/classifiers/__pycache__/*
+DeepLearning/Homework/datasets/cifar-10-python.tar.gz
+DeepLearning/Seminars/06. Video/Road_cv_5/*
+DeepLearning/Seminars/06. Video/Road_ffmpeg_5/*
+DeepLearning/Seminars/06. Video/raft/*
+DeepLearning/Seminars/06. Video/template.ipynb
+DeepLearning/Seminars/06. Video/road_5.mp4
+DeepLearning/Homework/saved/*
+DeepLearning/Homework/datasets/get_imagenet_val.sh
+DeepLearning/Homework/datasets/get_coco_dataset.sh
+DeepLearning/Homework/PyTorch.ipynb
+DeepLearning/Homework/RNN_Captioning_pytorch.ipynb
+DeepLearning/Homework/Dropout.ipynb
+DeepLearning/Homework/BatchNormalization.ipynb
+DeepLearning/Homework/classifiers/rnn_pytorch.py
+DeepLearning/Homework/images/batchnorm_graph.png
+DeepLearning/Homework/images/normalization.png
+DeepLearning/Homework/utils/captioning_solver_pytorch.py
+DeepLearning/Homework/utils/coco_utils.py
+DeepLearning/Homework/utils/rnn_layers_pytorch.py
+DeepLearning/Seminars/06. Video/solution.ipynb
